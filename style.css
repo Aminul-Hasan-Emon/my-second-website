@@ -1,3 +1,10 @@
 body {
     background: skyblue;
 }
+div ul li a {
+    color: blue;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
